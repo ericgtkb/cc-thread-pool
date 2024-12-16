@@ -1,0 +1,29 @@
+# C, C++
+*.o
+*.a
+*.so
+*.dylib
+*.out
+
+# Python
+__pychache__/
+venv/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# IDE
+*.swp
+.ycm_extra_conf.py
+compile_commands.json
+
+# Build tools
+bin/
+build/
+builddir/
+
+# Project install
+/bin/
+/lib/
+/share/
+
